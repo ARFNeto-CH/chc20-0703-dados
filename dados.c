@@ -54,6 +54,4 @@ int sorteio(int N, int d[])
     };
     return soma;
 };
-
 // fim ch 1462928
-
